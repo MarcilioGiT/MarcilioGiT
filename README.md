@@ -2,7 +2,7 @@
 
 Marcilio, 34 anos, Fortalezense, Sistema de Internet (UniDomBosco) e Desenvolvedor Full Stack por paixão.
 
-🏦 11 anos no HUWC/MEAC, mostrando sempre o meu melhor, e melhorando a carreira para universo da TI;
+🏦 12 anos no HUWC/MEAC, mostrando sempre o meu melhor, e melhorando a carreira para universo da TI;
 
 💻 Migrei para TI em 2019, buscando unir minha experiência em gestão com habilidades técnicas;
 
